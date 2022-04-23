@@ -96,3 +96,10 @@ h2 + p{
    
  }
  
+ @media(max-width: 600px){
+  nav ul li{
+    font-size:20px;
+    text-align: center;
+    line-height: 65px;
+}
+ }
