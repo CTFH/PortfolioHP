@@ -6,6 +6,7 @@ body {
 section {
     position: relative;
     width: 100vw;
+    height:2100px;
     /*height: 100vh;*/
     overflow: hidden;
 }
@@ -102,6 +103,7 @@ h2 + p{
     text-align: center;
     line-height: 65px;
   }
+
   #infoBox{
     display: flex;
     flex-direction: column;
