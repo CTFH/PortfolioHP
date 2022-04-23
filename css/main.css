@@ -96,7 +96,7 @@ h2 + p{
    
  }
  
- @media(max-width: 600px){
+ @media(max-width: 650px){
   nav ul li{
     font-size:20px;
     text-align: center;
